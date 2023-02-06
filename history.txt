@@ -1,0 +1,50 @@
+    1  is command_line_course linux_boptcamp
+    2  ls command_line_course linux_bootcamp
+    3  rm -r example
+    4  rm -r example/
+    5  git--version
+    6  git --version
+    7  git config --global user.name "Sandiswa Hlongwane"
+    8  code
+    9  git config --global core.autocrlf true
+   10  moon
+   11  cd git-basic-exercises
+   12  git clone https://github.com/Sandiswahlongwane/git-basic-exercises.git
+   13  cd git-basic-exercises
+   14  ls-a
+   15  ls -a
+   16  git init
+   17  ls -a
+   18  touch README.md
+   19  ls -a
+   20  git staus
+   21  git status
+   22  git log
+   23  git add
+   24  git add HELLO AFRICA
+   25  git add hello africa.
+   26  git add README.md
+   27  git status
+   28  git commit -m "initial commit"
+   29  git status
+   30  git status
+   31  git log
+   32  nano README.md
+   33  cat README.md
+   34  git log
+   35  git checkout 65e4ec958440c63d4f9ed7d7f907fbcef24b16c0
+   36  cat README.md
+   37  git checkout main
+   38  git branch
+   39  git branch
+   40  nano milkshake.md
+   41  git status
+   42  git log
+   43  qgit checkout main
+   44  git checkout main
+   45  git branch
+   46  git log
+   47  git log
+   48  q
+   49  history.history.txt
+   50  history>history.txt
